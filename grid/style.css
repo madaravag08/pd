@@ -1,0 +1,17 @@
+.delis{
+    display:grid;
+    width: 100px;
+    height: 100px;
+    grid-template-columns: 12,5px 12,5px 12,5px 12,5px 12,5px 12,5px 12,5px 12,5px;
+    grid-template-rows: 12,5px 12,5px 12,5px 12,5px 12,5px 12,5px 12,5px 12,5px;
+    gap: 9px;
+    background-color: black;
+}
+
+.white{
+
+}
+
+.black{
+
+}

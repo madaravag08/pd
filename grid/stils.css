@@ -1,0 +1,65 @@
+.container{
+    display:grid;
+    width: 748px;
+    height: 746px;
+    grid-template-columns: 320px 198px 153px 50px;
+    grid-template-rows: 414px 130px 155px 20px;
+    gap: 9px;
+    background-color: black;
+
+}
+
+.sarkanais{
+background-color: #E72F24;
+
+
+}
+
+.blakusred{
+background-color: #F0F1EC;
+
+grid-column: span 3;
+
+}
+
+.rinda2-1{
+    background-color: #F0F1EC;
+    
+    grid-row: span 2;
+    
+}
+
+.rinda2-2{
+    background-color: #F0F1EC;
+   grid-column: span 2;
+    grid-row: span 2;
+}
+
+.rinda2-3{
+    background-color: #004592;
+    border-bottom: solid 10px;
+
+
+}
+
+.r3-1{
+    background-color: #F0F1EC;
+    
+    grid-row: span 2;
+}
+
+.r4-1{
+    background-color: #F0F1EC;
+   
+}
+
+.r4-2{
+    background-color: #F9D01E;
+    
+}
+
+.r4-3{
+    background-color: #696f75;
+    
+}
+

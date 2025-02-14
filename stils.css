@@ -1,0 +1,27 @@
+
+#parkinsans-uniquifier {
+    font-family: "Parkinsans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+  }
+
+  .pogacolor{
+    background-color: #ffc107;
+
+  }
+
+
+  .brunsfons{
+    
+  }
+
+  .fons{
+    background-color: blue;
+  }
+
+  .izmers{
+    height: 80px;
+    width: 100px;
+  }

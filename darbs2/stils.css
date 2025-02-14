@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+
+.kaste{
+    border: solid 2px;
+    width: 200px;
+    height: 200px;
+    border-width: 0 10px 20px 30px;
+    background-color: rgb(167, 105, 69);
+    padding: 20px;
+    margin: 10px;
+    
+}
+.augseja-kaste{
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+    display: inline-block;
+    background-color: rgb(232, 235, 91);
+   
+}
+
+.videja-kaste{
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    display: block;
+    background-color: antiquewhite;
+    margin-left: 260px;
+    position: fixed;
+    left: 300px;
+    top: 50px;
+  
+   
+
+}
+
+.apakseja-kaste{
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    background-color: rgb(113, 214, 118);
+    margin: 0 0 0 500px;
+    
+   
+}
+
+.Kakis-1{
+    width: 2px;
+    height: 3px;
+    float: left;
+}
